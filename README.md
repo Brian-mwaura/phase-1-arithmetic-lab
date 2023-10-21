@@ -207,7 +207,6 @@ JavaScript has a number of operators for assigning a value to a variable. We've
 already used the most basic, `=`, but we can also couple it with an arithmetic
 operator to perform an operation _and_ assign the value of the operation:
 
-```js
 let counter = 0;
 //=> undefined
 
